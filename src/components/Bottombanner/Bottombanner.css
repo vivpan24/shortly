@@ -1,0 +1,9 @@
+.text {
+  color: rgb(0, 2, 4);
+  font-weight: bold;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}

@@ -1,0 +1,17 @@
+.card {
+  width: 18rem;
+}
+.card-title {
+  font-weight: bold;
+  font-size: 20px;
+}
+.main_image {
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  margin-left: 30px;
+  background-color: black;
+}
+.main_div {
+  margin-top: 15px;
+}
